@@ -1,8 +1,7 @@
 <h1 align="center">Heydo, I'm Aaryan</h1>
-<h3 align="center">An Aspiring Programmer</h3> <br>
+<h3 align="center">An Aspiring Programmer</h3> 
 
 <h3>About me </h3>
-
 
 - 🔭 Currently working on **Front-End Web Dev**
 
